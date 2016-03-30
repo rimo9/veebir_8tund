@@ -1,0 +1,4 @@
+{"Küsimused":[
+{"id": 1, "q": "Kui palju on 5+2?", "ask": 0},
+{"id": 2, "q": "Kas siga on loom?", "ask": 0}
+]}
